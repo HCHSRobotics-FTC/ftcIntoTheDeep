@@ -1,0 +1,26 @@
+Control Hub Port Configuration
+Motor 0: backright
+Motor 1: backleft
+Motor 2: frontleft
+Motor 3: frontright
+Digital Device 1: limitswitch
+I2C BUS 0: odometry wheels 1 & 2
+
+//to do: figure out how to configure odometry wheels
+Servo 0: leftIntakeExtension
+Servo 1: rightIntakeExtension
+Servo 2: leftLiftExtension
+Servo 3: rightLiftExtension
+Servo 4: leftHangarTilt
+Servo 5: rightHangarTilt
+
+Expansion Hub Port Configuration : todo 
+Servo 0: intakeTilt
+Servo 1: claw
+Servo 2: e clawTilt — ?
+Servo 3: e_servo3 — 
+Servo 4: e_servo4 — 
+Servo 5: e_servo5 — 
+
+Camera rotation servo -> Servo Port 0: “camera”(optional)
+Lift and lift extensions opposite ends need to be opposite example: if one is .25 then the other has to be .75
