@@ -1,7 +1,7 @@
 public class fizzBuzz {
     public static void main(String[] args) {
         final int start = 0;
-        final int end = 100;
+        final int end = 105;
 
         int current = start;
 
