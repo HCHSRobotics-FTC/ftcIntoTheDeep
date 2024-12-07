@@ -1,3 +1,4 @@
+package fizzbuzz;
 public class fizzBuzz {
     public static void main(String[] args) {
         final int start = 0;
